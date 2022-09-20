@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Clase6_SQLite</string>
+    <string name="labelNombreUsuario">Nombre:</string>
+    <string name="labelCedula">Cedula:</string>
+    <string name="labelContrasena">Contraseña:</string>
+    <string name="nombreUsuario">Nombre</string>
+    <string name="cedula">Cedula</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="labelGuardar">Guardar</string>
+    <string name="labelConsultar">Consultar</string>
+    <string name="labelTelefono">Telefono:</string>
+    <string name="telefono">Telefono</string>
+    <string name="labelLimpiar">Limpiar</string>
+</resources>
